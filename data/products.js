@@ -656,5 +656,28 @@ const products = [
       "apparel",
       "mens"
     ]
-  }
-];
+  },{
+    image:'https://m.media-amazon.com/images/I/51lX5oZbtQL._AC_UL320_.jpg',
+    name:'Amazon Fire TV Stick with Alexa Voice Remote (includes TV and app controls) | HD streaming device | Works with Smart TV and Non-Smart TV',
+    rating:{
+        stars: 5,
+        count: 789
+    },
+    PriceCents: 2999
+},{
+    image:'https://m.media-amazon.com/images/I/61vtLhO6fDL._AC_UL320_.jpg',
+    name:'Apple 20W USB-C Power Adapter (for iPhone, iPad & AirPods)',
+    rating:{
+        stars: 4.5,
+        count: 550
+    },
+    PriceCents: 1999
+},{
+    image:'https://m.media-amazon.com/images/I/81ChzbwaNIL._AC_SR480%2C570_.jpg',
+    name:'HINISO Mini Projector for Home 4K Support - Wireless | 9K Lumens, 5G WiFi, Bluetooth, & Native 1080p | Android 9.0 Portable Projector with Fully Sealed Technology - Built-in Speakers & Cooling System',
+    rating:{
+        stars: 4,
+        count: 487
+    },
+    PriceCents: 11922
+}];
